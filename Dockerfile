@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM docker.unimatic.local:5000/ubuntu
 
 MAINTAINER Christoph Wiechert <wio@psitrax.de>
 MAINTAINER https://github.com/henszey
